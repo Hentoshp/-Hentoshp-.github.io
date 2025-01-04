@@ -1,5 +1,4 @@
 # Portfolio-Pierce-Hentosh
-Project Portfolio
 Welcome to my project portfolio! This repository highlights some of the key data science and analytics projects I've worked on, showcasing my expertise in Python, R, and statistical modeling. Each project is documented with its objectives, methodologies, and outcomes.
 
 Projects
