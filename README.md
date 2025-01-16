@@ -1,5 +1,5 @@
 # Portfolio-Pierce-Hentosh
-Welcome to my project portfolio! This repository highlights some of the key data science and analytics projects I've worked on, showcasing my expertise in Python, R, and statistical modeling. Each project is documented with its objectives, methodologies, and outcomes.
+Welcome to my project portfolio! This repository highlights some of the key data science and analytics projects I've worked on, showcasing my experience in Python, R, and statistical modeling. Each project is documented with its objectives, methodologies, and outcomes.
 
 Projects
 1. Win Prediction Model for Competitive Gaming
