@@ -3,12 +3,8 @@ Welcome to my project portfolio! This repository highlights some of the key data
 
 Projects
 1. Win Prediction Model for Competitive Gaming
-Description: A Logistic Regression model designed to predict team wins in the competitive game Counter-Strike 2 with 78% predictive accuracy.
-Key Features:
-Utilized a dataset of 1,500 observations from Faceit’s API.
-Built a scalable data pipeline to process raw match and player statistics.
-Applied advanced data cleaning techniques for robust predictive modeling.
-Tech Stack: Python (Pandas, NumPy, Scikit-learn, Requests, Time)
+Description: Designed and implemented a Support Vector Machine (SVM) model to forecast team wins in Counter-Strike 2. Achieved a predictive accuracy of 77% ± 0.92, after testing multiple models including Logistic Regression, Random Forests, neural net, and XGBoosted Trees. Extracted and processed a robust dataset of 9,651 observations from Faceit, an esports matchmaking service, API
+Tech Stack: Python (Pandas, NumPy, Scikit-learn, Requests, Time, XGBoost, PyTorch)
 
 https://github.com/Hentoshp/CS2_Win_Prediction
 
